@@ -1,0 +1,7 @@
+[package]
+name = "rust_pic01"
+version = "0.1.0"
+edition = "2021"
+description = "三维单电子在射频电场与均匀静磁场中的 Boris 推进示例"
+
+[dependencies]

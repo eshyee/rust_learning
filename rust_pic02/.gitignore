@@ -1,0 +1,22 @@
+# Rust 构建目录
+/target/
+
+# Python 缓存和虚拟环境
+__pycache__/
+*.pyc
+.venv/
+python/.venv/
+
+# Jupyter 缓存
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# 运行输出（保留文件夹内的 .gitkeep）
+/results/**/*.csv
+/results/**/*.png
+
+# 临时文件
+*.tmp
